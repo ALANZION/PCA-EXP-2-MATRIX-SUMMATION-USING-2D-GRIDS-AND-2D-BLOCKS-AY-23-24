@@ -1,6 +1,8 @@
+
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 <h3>ENTER YOUR NAME:ALAN ZION H</h3>
 <h3>ENTER YOUR REGISTER NO:212223240004</h3>
+
 
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
